@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @siddharthgandhi19
+- 🌱 I’m currently learning C#
+- 📫 How to reach me on siddharthgandhi19@gmail.com
