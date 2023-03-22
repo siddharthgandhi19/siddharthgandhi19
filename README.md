@@ -5,6 +5,10 @@
 ### A Software Developer
   
  I am a Mechanical Engineer with a deep interest in software development and open-source technologies. I take pleasure in building applications and exploring novel product concepts through insightful discussions with individuals from various domains.
+
+### Skills
+  
+ ADO .NET || ASP .NET ||  ASP.NET Web API   ||  React JS  || JavaScript  || Entity Framework || SQL
   
   <h1><p align="center">Let's connect!</p></h1>
   
