@@ -8,7 +8,7 @@
 
 ### Skills
   
- ADO .NET || ASP .NET ||  ASP.NET Web API   ||  React JS  || JavaScript  || Entity Framework || SQL
+<h1 align="center" > ADO .NET || ASP .NET ||  ASP.NET Web API   ||  React JS  || JavaScript  || Entity Framework || SQL </h1>
   
   <h1><p align="center">Let's connect!</p></h1>
   
