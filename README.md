@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"> , I'm Siddharth Gandhi </h1>
 
-### A Software Developer
+###  Software Engineer
   
  I am a Mechanical Engineer with a deep interest in software development and open-source technologies. I take pleasure in building applications and exploring novel product concepts through insightful discussions with individuals from various domains.
 
